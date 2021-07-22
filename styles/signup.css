@@ -1,0 +1,178 @@
+p {
+  margin-bottom: 0;
+}
+h4 {
+  margin-bottom: 0;
+}
+.register-secton {
+  background-color: #fff;
+  min-height: 100vh;
+  padding-top: 114px;
+}
+.image-section {
+  min-height: 100vh;
+  background-image: url(../img/girl.png);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.page-heading {
+  margin-top: 56px;
+  font-family: "poppins";
+}
+.page-heading h4 {
+  color: #2e4751;
+  font-size: 34px;
+  line-height: 29px;
+  font-weight: bold;
+}
+.page-heading p {
+  margin-top: 8px;
+  color: #2e4751;
+  font: normal normal normal 24px/29px Poppins;
+}
+.form-container {
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 50px;
+}
+.form-container p {
+  font: normal normal normal 22px/29px Poppins;
+  color: #2e4751;
+}
+.form-container .register-para {
+  margin-bottom: 20px;
+}
+.form-container .select-box {
+  height: 65px;
+  border: 0.5px solid #ced4da;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.form-container span {
+  margin-top: 18px;
+  font: normal normal normal 22px/29px Poppins;
+}
+.form-container .select-box img {
+  margin-top: 15px;
+  border-radius: 100%;
+}
+.active-class {
+  background-color: #60cbcc;
+  color: #fff;
+}
+.form-body {
+  margin-top: 40px;
+}
+.form-body input {
+  height: 70px;
+}
+.form-body p {
+  margin-bottom: 10px;
+}
+.form-body .btn-custom {
+  width: 100%;
+  height: 65px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background: #60cbcc 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  color: #fff;
+}
+.form-body .btn-custom span {
+  font: normal normal medium 20px/29px Poppins;
+}
+.login p {
+  font: normal normal 300 18px/29px Poppins;
+  color: #555555;
+}
+.login span {
+  font: normal normal 300 18px/29px Poppins;
+  color: #ec832e;
+}
+@media screen and (max-width: 1600px) {
+  .form-container {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 50px;
+  }
+}
+@media screen and (max-width: 1700px) {
+  .special .special-div {
+    margin-top: 16px;
+  }
+}
+@media screen and (max-width: 1366px) {
+  .form-container {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 50px;
+  }
+  .select-box p {
+    width: 161px;
+  }
+  .special {
+    display: block;
+  }
+  .special .special-div {
+    margin-top: 16px;
+  }
+}
+@media screen and (max-width: 778px) {
+  .register-secton {
+    padding-top: 70px;
+  }
+  .form-body input {
+    height: 58px;
+  }
+  .form-container {
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 50px;
+  }
+  .select-box {
+    max-width: 100%;
+  }
+  .special .special-div {
+    margin-top: 0;
+  }
+  .special {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 577px) {
+  .image-section {
+    min-height: auto;
+    height: 400px !important;
+  }
+  .register-secton {
+    padding-top: 50px;
+  }
+  .page-heading h4 {
+    font-size: 24px;
+  }
+  .page-heading p {
+    font-size: 16px;
+  }
+  .form-body input {
+    height: 58px;
+  }
+  .form-body p {
+    font-size: 16px;
+  }
+  .form-container {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 50px;
+  }
+  .form-container p {
+    font-size: 16px;
+  }
+  .form-container span {
+    font-size: 16px;
+  }
+  .special {
+    display: block;
+  }
+}

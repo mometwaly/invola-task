@@ -1,0 +1,1198 @@
+h4 {
+  margin-bottom: 0;
+}
+h2 {
+  margin-bottom: 0;
+}
+p {
+  margin-bottom: 0;
+}
+.page-padding {
+  padding-right: 114px;
+  padding-left: 114px;
+}
+.video-section-padding {
+  padding-right: 140px;
+  padding-left: 140px;
+  background: #f7f7f7 0% 0% no-repeat padding-box;
+}
+.navbar-custom {
+  height: 112px;
+  padding-right: 114px;
+  padding-left: 114px;
+}
+.active {
+  color: #ec832e;
+}
+nav {
+  z-index: 9999;
+}
+.nav-item a {
+  color: #333333;
+  font-size: 22px;
+  line-height: 33px;
+}
+.nav-item a:hover {
+  color: #ec832e !important;
+}
+nav ul {
+  background-color: #ffffff;
+}
+.nav-btn {
+  width: 160px;
+  height: 65px;
+  background: #60cbcc 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  font-size: 24px;
+}
+.nav-awesome {
+  font-size: 24px;
+}
+.contact-space {
+  margin-right: 80px;
+}
+.font-space {
+  margin-right: 40px;
+}
+.hello-section {
+  padding-top: 200px;
+  background-image: url(../img/photo-1596496050755-c923e73e42e1.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  padding-bottom: 125px;
+}
+.hello-section p {
+  margin-top: 20px;
+  font: normal normal normal 26px/46px Poppins;
+  color: #ffffff;
+}
+.hello-section input {
+  margin-top: 40px;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 40px !important;
+  height: 75px;
+}
+.hello-section input ::placeholder {
+  font-size: 22px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #848484;
+}
+.hello .fontawesome {
+  position: absolute;
+  padding: 10px;
+  min-width: 40px;
+}
+.addon-custom {
+  position: absolute;
+  right: -3%;
+  top: 47%;
+  width: 10%;
+  margin-top: 10px;
+  height: 25px;
+  cursor: pointer;
+  color: #716274;
+}
+
+h1 {
+  color: #ffffff;
+  margin-bottom: 0;
+  font: normal normal 600 70px/90px "Poppins";
+}
+.hello-section-info {
+  padding-top: 72px;
+  background-color: #3cc0c2;
+  padding-bottom: 70px;
+}
+.hello-section-info img {
+  width: 80px;
+  height: 80px;
+}
+.hello-section-info h4 {
+  font-size: 26px;
+  line-height: 29px;
+  font-family: Poppins;
+  color: #ffffff;
+}
+.hello-section-info p {
+  margin-top: 6px;
+  font-size: 20px;
+  line-height: 38px;
+  font-family: "poppins";
+  color: #ffffff;
+}
+.categories {
+  padding-top: 150px;
+}
+.categories .categories-card {
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #e0e4e6;
+  border-radius: 4px;
+  padding-top: 57px;
+  padding-bottom: 32px;
+  position: relative;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.categories-card:hover {
+  box-shadow: 0px 6px 15px #00000014;
+}
+.categories .categories-card img {
+  width: 80px;
+  height: 80px;
+}
+.categories .categories-card h4 {
+  font: normal normal medium 26px/29px Poppins;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+.categories .categories-card .regtangle {
+  width: 44px;
+  height: 44px;
+  right: 0;
+  top: 0;
+  border-top: 100px solid #60cbcc;
+  border-left: 100px solid transparent;
+  position: absolute;
+}
+.categories .categories-card p {
+  font: normal normal normal 20px/38px Poppins;
+  color: #555555;
+}
+.categories h1 {
+  font: normal normal 600 55px/80px Poppins;
+  letter-spacing: 0px;
+  color: #303d48;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.carsoule img {
+  width: 380px;
+  height: 320px;
+}
+.sub-nav-custom {
+  border-radius: 33px;
+  border: 1px solid #e0e4e6;
+  padding: 5px;
+  margin-bottom: 60px;
+}
+.sub-nav-custom .nav-link {
+  border-radius: 33px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+.sub-nav-custom a {
+  text-align: center;
+  font: normal normal normal 24px/35px Poppins;
+  color: #555555;
+}
+.sub-nav-custom .active-custom {
+  background-color: #60cbcc;
+  color: #fff;
+}
+.video-section h2 {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  color: #303d48;
+  font: normal normal 600 55px/80px Poppins;
+}
+.video-section p {
+  font: normal normal normal 22px/40px Poppins;
+  color: #555555;
+  margin-bottom: 30px;
+}
+.video-section .btn-custom {
+  width: 218px;
+  height: 65px;
+  border: 2px solid #60cbcc;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 105px;
+}
+video {
+  width: 100%;
+  height: auto;
+  margin-top: 80px;
+}
+.popular-courses {
+  padding-top: 140px;
+  padding-right: 140px;
+  padding-left: 140px;
+}
+.popular-courses h2 {
+  font: normal normal 600 55px/80px Poppins;
+  letter-spacing: 0px;
+  color: #2e4751;
+  margin-bottom: 10px;
+}
+.popular-courses p {
+  font-size: 22px;
+  line-height: 38px;
+  letter-spacing: 0px;
+  color: #555555;
+}
+.popular-courses-cards {
+  margin-top: 60px;
+  border-radius: 4px 4px 0px 0px;
+  position: relative;
+  margin-bottom: 70px;
+}
+.popular-courses-cards h5 {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font: normal normal 600 26px/29px Poppins;
+
+  letter-spacing: 0px;
+  color: #333333;
+}
+.popular-courses-cards p {
+  font: normal normal normal 20px/38px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+  margin-bottom: 25px;
+}
+.popular-courses-cards .stars {
+  margin-bottom: 33px;
+}
+.popular-courses-cards .stars i {
+  width: 22px;
+  height: 22px;
+}
+.card-btn {
+  background: transparent
+    linear-gradient(91deg, #f0490d 0%, #e8ab4a 96%, #feb101 100%) 0% 0%
+    no-repeat padding-box;
+  border: 1px solid #ffffff;
+  border-radius: 6px;
+  width: 197px;
+  height: 70px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+.popular-courses-cards .price {
+  font: normal normal 600 30px/60px Poppins;
+  letter-spacing: 0px;
+  color: #333333;
+}
+.popular-courses-cards .old-price {
+  text-decoration: line-through;
+  font: italic normal 300 26px/60px Poppins;
+  letter-spacing: 0px;
+  color: #777777;
+}
+.card-btn-sm {
+  width: 100px;
+  height: 39px;
+  position: absolute;
+  color: #fff;
+  font-size: 18px;
+  line-height: 27px;
+  left: 34px;
+  top: 27px;
+  background: #e16c6c 0% 0% no-repeat padding-box;
+}
+.checked {
+  color: #ffc400;
+}
+.popular-courses-cards .fa-custom {
+  color: #ec832e;
+  position: absolute;
+  top: 21px;
+  right: 21px;
+}
+.popular-courses-cards .stars .rating {
+  font: normal normal 300 24px/60px Poppins;
+  color: #aeaeae;
+}
+.btn-custom-courses {
+  font-size: 24px;
+  line-height: 35px;
+  width: 213px;
+  height: 70px;
+  border-radius: 6px;
+  margin-bottom: 140px;
+}
+.feature-activites {
+  background-image: url(../img/Group-Skills.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  position: relative;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #000000;
+  opacity: 50%;
+}
+.feature-activites h2 {
+  font: normal normal 600 55px/80px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+.feature-activites p {
+  font-size: 22px;
+  line-height: 35px;
+  color: #ffffff;
+}
+.feature-activites .feature-activites-cards {
+  margin-top: 50px;
+}
+.feature-activites .feature-activites-cards h5 {
+  font: normal normal normal 26px/29px Poppins;
+  letter-spacing: 0px;
+  color: #333333;
+  text-transform: capitalize;
+  margin-top: 20px;
+  margin-bottom: 26px;
+}
+.feature-activites .feature-activites-cards .card-date {
+  font: normal normal 300 20px/29px Poppins;
+  color: #777777;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.feature-activites .feature-activites-cards .card-para {
+  font: normal normal 300 20px/38px Poppins;
+  color: #555555;
+  margin-bottom: 16px;
+}
+.feature-activites .feature-activites-cards .card-btn {
+  border-radius: 35px;
+  margin-bottom: 0;
+}
+.feature-activites .feature-activites-cards .price {
+  font: normal normal 600 30px/60px Poppins;
+  letter-spacing: 0px;
+  color: #333333;
+  text-transform: capitalize;
+}
+.feature-activites .feature-activites-cards .old-price {
+  text-decoration: line-through;
+  font: italic normal 300 26px/60px Poppins;
+  letter-spacing: 0px;
+  color: #777777;
+  text-transform: capitalize;
+}
+.feature-activites .btn-custom {
+  margin-top: 64px;
+  margin-bottom: 80px;
+  width: 213px;
+  height: 70px;
+  background: #3cc0c2 0% 0% no-repeat padding-box;
+  box-shadow: 0px 12px 18px #01010114;
+  border: 2px solid #3cc0c2;
+  border-radius: 6px;
+  font-size: 24px;
+  line-height: 35px;
+}
+.clients-reviews {
+  background-color: #f7f7f7;
+  padding-top: 80px;
+  padding-right: 140px;
+  padding-left: 140px;
+}
+.review-cards {
+  margin-top: 60px;
+  padding-bottom: 60px;
+}
+.dots {
+  padding-bottom: 80px;
+}
+.clients-reviews .dot {
+  width: 24px;
+  height: 24px;
+  background: #3cc0c2 0% 0% no-repeat padding-box;
+  border-radius: 50%;
+  opacity: 40%;
+  margin-right: 20px;
+}
+.clients-reviews h2 {
+  font: normal normal 600 55px/80px Poppins;
+  color: #2e4751;
+  margin-bottom: 10px;
+}
+.clients-reviews p {
+  font-size: 22px;
+  line-height: 38px;
+  color: #555555;
+}
+.clients-reviews .clients-review-card {
+  border: 3px solid #e0e4e633;
+  border-radius: 20px;
+  padding-right: 46px;
+  padding-left: 46px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.clients-reviews .clients-review-card:hover {
+  border: 3px solid #60cbcc99;
+}
+.clients-reviews .clients-review-card p {
+  font: normal normal normal 22px/40px Poppins;
+  color: #555555;
+  margin-top: 25px;
+  margin-bottom: 22px;
+}
+.clients-reviews .clients-review-card h4 {
+  font-size: 30px;
+  line-height: 46px;
+  letter-spacing: 0px;
+  color: #333333;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+.clients-reviews .clients-review-card h5 {
+  font-size: 22px;
+  line-height: 33px;
+  letter-spacing: 0px;
+  color: #5d635c;
+}
+.clients-reviews .person {
+  width: 140px;
+  height: 140px;
+  margin-top: 70px;
+}
+.page-padding-all {
+  padding-left: 140px;
+  padding-right: 140px;
+}
+.latest-blogs {
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
+.latest-blogs h2 {
+  font: normal normal 600 55px/80px Poppins;
+  color: #2e4751;
+}
+.latest-blogs p {
+  font-size: 22px;
+  line-height: 38px;
+  color: #555555;
+}
+.latest-blogs img {
+  height: 320px;
+  margin-bottom: 25px;
+}
+.latest-blogs .latest-blog-cards {
+  margin-top: 60px;
+}
+.latest-blogs .latest-blog-cards h4 {
+  font-size: 26px;
+  line-height: 42px;
+  letter-spacing: 0px;
+  color: #333333;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.latest-blogs .latest-blog-cards p {
+  font: normal normal normal 20px/38px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+}
+.latest-blogs .latest-blog-cards p span {
+  color: #60cbcc;
+}
+.latest-blogs .latest-blog-cards .i {
+  color: #555555;
+}
+.latest-blogs .latest-blog-cards .time {
+  font: normal normal normal 18px/40px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+}
+.keep-in-touch {
+  background-color: #f7f7f7;
+  padding: 80px;
+}
+.keep-in-touch h2 {
+  font: normal normal 600 45px/75px Poppins;
+  letter-spacing: 0px;
+  color: #2e4751;
+  text-transform: capitalize;
+}
+.keep-in-touch input {
+  height: 80px;
+  border-radius: 6px;
+}
+.keep-in-touch input::placeholder {
+  font: normal normal normal 20px/30px Poppins;
+  letter-spacing: 0.8px;
+  color: #555555;
+  padding-left: 26px;
+}
+.keep-in-touch .btn-custom {
+  background: #60cbcc 0% 0% no-repeat padding-box;
+  box-shadow: 11px 11px 44px #506cea0d;
+}
+.footer {
+  padding-top: 80px;
+}
+.footer img {
+  width: 160px;
+  height: 40px;
+  margin-bottom: 16px;
+}
+.footer .brand-p {
+  font: normal normal normal 20px/36px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+  text-transform: capitalize;
+}
+.footer h3 {
+  font: normal normal medium 24px/70px Poppins;
+  letter-spacing: 0px;
+  color: #333333;
+  margin-bottom: 25px;
+}
+.footer p {
+  font: normal normal normal 20px/36px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+  margin-bottom: 16px;
+}
+.footer a {
+  font: normal normal normal 20px/36px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+  margin-bottom: 16px;
+  display: block;
+  cursor: pointer;
+}
+.footer a:hover {
+  text-decoration: none;
+  color: #ec832e !important;
+}
+.find-us-span1 {
+  font: normal normal normal 20px/70px Poppins;
+  letter-spacing: 0px;
+  color: #ec832e;
+}
+.find-us-span2 {
+  font: normal normal normal 20px/70px Poppins;
+  letter-spacing: 0px;
+  color: #555555;
+}
+.btn-default-custom {
+  width: 187px;
+  height: 60px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #979797;
+  border-radius: 6px;
+  margin-bottom: 40px;
+}
+.btn-default-custom span {
+  font-size: 24px;
+  letter-spacing: 0px;
+  color: #555555;
+}
+.carso-container {
+  background: #f7f7f7 0% 0% no-repeat padding-box;
+}
+.carso-container img {
+  height: 320px;
+}
+.carso-container .card-body {
+  padding: 0;
+  position: relative;
+}
+.carso-container .card-info {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 0;
+  bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  height: 100px;
+}
+.carso-container .card-info p {
+  font-size: 30px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+@media screen and (max-width: 1615px) {
+  .categories {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  .navbar-custom {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  .page-padding {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  .video-section-padding {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  /* start of popular courses*/
+  .popular-courses {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  /* end of popular courses*/
+  /* start of feature activites*/
+  .feature-activites {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  /*end of feature activites*/
+  .clients-reviews {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  .page-padding-all {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+}
+@media screen and (max-width: 1366px) {
+  .hello-section p {
+    font-size: 24px;
+  }
+  .hello-section-info p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .categories .categories-card p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .popular-courses h2 {
+    font-size: 50px;
+  }
+  .popular-courses p {
+    font-size: 18px;
+  }
+  .popular-courses-cards p {
+    font-size: 16px;
+  }
+  .popular-courses-cards .stars .rating {
+    font: normal normal 300 21px/38px Poppins;
+  }
+  .popular-courses-cards .price {
+    font: normal normal 600 24px/60px Poppins;
+  }
+  .popular-courses-cards .old-price {
+    font: italic normal 300 16px/60px Poppins;
+  }
+
+  .card-btn {
+    width: 160px;
+  }
+  .feature-activites h2 {
+    font-size: 50px;
+  }
+  .feature-activites p {
+    font-size: 18px;
+  }
+  .feature-activites .feature-activites-cards .card-date {
+    font-size: 18px;
+  }
+  .feature-activites .feature-activites-cards .card-para {
+    font-size: 16px;
+  }
+  .feature-activites .feature-activites-cards .price {
+    font-size: 24px;
+  }
+  .feature-activites .feature-activites-cards .old-price {
+    font-size: 16px;
+  }
+  .feature-activites .feature-activites-cards .card-btn {
+    width: 160px;
+  }
+  .clients-reviews p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .clients-reviews .clients-review-card p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .clients-reviews .clients-review-card {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .latest-blogs .latest-blog-cards h4 {
+    font-size: 24px;
+    line-height: 37px;
+  }
+  .latest-blogs .latest-blog-cards p {
+    font: normal normal normal 18px/38px Poppins;
+  }
+  .video-section h2 {
+    font: normal normal 600 47px/80px Poppins;
+  }
+
+  .video-section p {
+    font: normal normal normal 18px/37px Poppins;
+  }
+  .footer h3 {
+    font: normal normal medium 22px/70px Poppins;
+  }
+  .footer p {
+    font: normal normal normal 18px/36px Poppins;
+  }
+  .footer a {
+    font: normal normal normal 18px/36px Poppins;
+  }
+  .find-us-span1 {
+    font: normal normal normal 18px/70px Poppins;
+  }
+  .find-us-span2 {
+    font: normal normal normal 18px/70px Poppins;
+  }
+  .video-section p {
+    font: normal normal normal 16px/21px Poppins;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .navbar-custom ul {
+    padding: 25px;
+  }
+  .addon-custom {
+    right: 1%;
+  }
+  .hello-section p {
+    font-size: 20px;
+  }
+  .categories {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .navbar-custom {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .page-padding {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .video-section-padding {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  /* start of popular courses*/
+  .popular-courses {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .popular-courses {
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .feature-activites {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .clients-reviews {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .clients-reviews .clients-review-card {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .page-padding-all {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  .latest-blogs {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .video-section .btn-custom {
+    margin-bottom: 0px;
+  }
+  .video-section p {
+    font: normal normal normal 24px/28px Poppins;
+  }
+}
+@media screen and (max-width: 778px) {
+  h1 {
+    font: normal normal 600 50px/70px "Poppins";
+  }
+  .video-section-padding {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  video-section h2 {
+    margin-top: 40px;
+    margin-bottom: 26px;
+  }
+  .navbar-custom {
+    height: 112px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .hello-section {
+    padding-top: 100px;
+    padding-bottom: 70px;
+  }
+  .hello-section p {
+    font-size: 21px;
+    line-height: 28px;
+  }
+  .navbar-custom ul {
+    padding: 25px;
+  }
+  .page-padding {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .hello-section-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .hello-section-info h4 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .categories {
+    padding-top: 60px;
+  }
+  .categories h1 {
+    font: normal normal 600 50px/80px Poppins;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+  .feature-activites {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .feature-activites h2 {
+    font: normal normal 600 40px/50px Poppins;
+    margin-top: 35px;
+    margin-bottom: 10px;
+  }
+  .feature-activites .feature-activites-cards {
+    margin-top: 35px;
+  }
+  .feature-activites .btn-custom {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .clients-reviews {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .page-padding-all {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .keep-in-touch {
+    padding: 40px;
+  }
+  .keep-in-touch h2 {
+    font: normal normal 600 40px/60px Poppins;
+  }
+  .popular-courses h2 {
+    font-size: 40px;
+  }
+  .popular-courses {
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .popular-courses-cards {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .btn-custom-courses {
+    margin-bottom: 60px;
+  }
+  .clients-reviews h2 {
+    font: normal normal 600 40px/50px Poppins;
+  }
+  .latest-blogs h2 {
+    font: normal normal 600 40px/50px Poppins;
+  }
+  .categories {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+@media screen and (max-width: 570px) {
+  .categories h1 {
+    font: normal normal 600 32px/37px Poppins;
+  }
+  .navbar-custom {
+    height: 70px;
+  }
+  .video-section h2 {
+    font: normal normal 600 32px/37px Poppins;
+  }
+  .video-section p {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .video-section h2 {
+    margin-top: 40px;
+    margin-bottom: 25px;
+  }
+
+  video {
+    margin-top: 30px;
+  }
+  h1 {
+    font: normal normal 600 32px/37px "Poppins";
+  }
+  .hello-section p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .hello-section {
+    padding-top: 50px;
+    padding-bottom: 35px;
+  }
+  .hello-section input {
+    margin-top: 20px;
+    height: 56px;
+  }
+  .addon-custom {
+    margin-top: -3px;
+  }
+  .hello-section-info h4 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .hello-section-info p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .hello-section-info img {
+    width: 60px;
+    height: 60px;
+  }
+  .feature-activites h2 {
+    font: normal normal 600 32px/37px Poppins;
+  }
+  .feature-activites p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .card-date {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .card-para {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .card-btn {
+    width: 130px;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  .clients-reviews p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .clients-reviews .clients-review-card p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  .clients-reviews h2 {
+    font-size: 32px;
+    line-height: 37px;
+  }
+  .clients-reviews {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 30px;
+  }
+  .review-cards {
+    margin-top: 22px;
+  }
+  .clients-reviews .clients-review-card {
+    padding-top: 30px;
+    padding-bottom: 22px;
+  }
+  .clients-reviews .person {
+    margin-top: 30px;
+  }
+  .clients-reviews .clients-review-card h5 {
+    font-size: 18px;
+  }
+
+  .clients-reviews .clients-review-card h4 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .review-cards {
+    margin-top: 20px;
+  }
+  .page-padding-all {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .latest-blogs {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .latest-blogs h2 {
+    font: normal normal 600 32px/37px Poppins;
+    margin-bottom: 8px;
+  }
+  .latest-blogs p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .latest-blogs .latest-blog-cards {
+    margin-top: 26px;
+  }
+  .latest-blogs .latest-blog-cards h4 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 5px;
+  }
+  .latest-blogs .latest-blog-cards p {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .latest-blogs .latest-blog-cards .time {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .keep-in-touch {
+    padding: 15px;
+  }
+  .keep-in-touch h2 {
+    font: normal normal 600 24px/37px Poppins;
+  }
+  .keep-in-touch .btn-custom span {
+    font-size: 14px !important;
+  }
+  .keep-in-touch input {
+    height: 40px;
+  }
+  .keep-in-touch input::placeholder {
+    font: normal normal normal 14px/30px Poppins;
+    letter-spacing: 0.8px;
+    color: #555555;
+    padding-left: 0px;
+  }
+  .popular-courses h2 {
+    font-size: 32px;
+  }
+  .popular-courses p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .footer h3 {
+    font: normal normal medium 18px/28px Poppins;
+  }
+  .footer p {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .footer a {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .find-us-span1 {
+    font: normal normal normal 18px/28px Poppins;
+  }
+  .find-us-span2 {
+    font: normal normal normal 16px/21px Poppins;
+  }
+  .footer {
+    padding-top: 40px;
+  }
+  .footer .brand-p {
+    font: normal normal normal 18px/28px Poppins;
+  }
+  .btn-default-custom span {
+    font-size: 16px;
+  }
+  .categories h1 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  .feature-activites .btn-custom {
+    height: 58px;
+    font-size: 18px;
+    line-height: 35px;
+  }
+  .btn-custom-courses {
+    font-size: 18px;
+
+    height: 58px;
+  }
+  .card-btn {
+    height: 58px;
+    color: #fff;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .feature-activites h2 {
+    font: normal normal 600 24px/37px Poppins;
+  }
+  .feature-activites p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .card-date {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .card-para {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .feature-activites .feature-activites-cards .price {
+    font-size: 18px;
+  }
+  .feature-activites .feature-activites-cards .old-price {
+    font-size: 14px;
+  }
+  .clients-reviews h2 {
+    font-size: 24px;
+    line-height: 37px;
+  }
+  .clients-reviews p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .clients-reviews .clients-review-card p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .card-btn {
+    width: 135px;
+    font-size: 16px;
+  }
+  .popular-courses-cards .price {
+    font: normal normal 600 16px/21px Poppins;
+  }
+}
