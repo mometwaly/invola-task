@@ -1153,6 +1153,22 @@ video {
     color: #fff;
     font-size: 18px;
   }
+  .feature-activites .feature-activites-cards .card-btn {
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 360px) {
+  .popular-courses-cards .price {
+    font: normal normal 600 18px/60px Poppins;
+  }
+  .card-btn {
+    width: 133px;
+  }
+  .card-btn {
+    height: 58px;
+    color: #fff;
+    font-size: 16px;
+  }
 }
 @media screen and (max-width: 320px) {
   .feature-activites h2 {
@@ -1194,5 +1210,11 @@ video {
   }
   .popular-courses-cards .price {
     font: normal normal 600 16px/21px Poppins;
+  }
+  .btn-default-custom {
+    margin-top: 10px;
+  }
+  .btn-default-custom span {
+    font-size: 14px;
   }
 }
